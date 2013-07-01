@@ -1,4 +1,5 @@
 # updates include a new adding function
+# updates from John
 
 def main():
    print ("2+2+2 = ",add_three(2,2,2))
